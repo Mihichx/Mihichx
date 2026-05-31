@@ -1,23 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mihichx/Mihichx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Статистика
 
-Here are some ideas to get you started:
+### Активность
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhichx&theme=react-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Статистика профиля
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhichx&show_icons=true&theme=radical)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihichx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihichx)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+### 📝 Используемые языки
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhichx&layout=compact&theme=radical)
