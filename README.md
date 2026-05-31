@@ -4,4 +4,4 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihichx&theme=react-dark)
 
 ### 📝 Используемые языки
-[![Anurag's GitHub stats][(https://github-readme-stats.vercel.app/api?username=Mihichx&show_icons=true&theme=transparent](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mihichx&theme=transparent&exclude={exclude}))](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mihichx&theme=transparent}&exclude={exclude})
+![Используемые языки](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mihichx&theme=transparent)
