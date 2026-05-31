@@ -3,7 +3,6 @@
 
 <table border="0" width="100%">
   <tr>
-    <!-- Увеличили левую колонку до 75% для 4-х столбиков -->
     <td valign="top" width="1000px">
       <table width="100%">
         <thead>
@@ -53,7 +52,7 @@
       </table>
     </td>
     <td>
-       <img width="305" height="305" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
+       <img width="200" height="200" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
     </td>
   </tr>
 </table>
