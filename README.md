@@ -52,7 +52,7 @@
       </table>
     </td>
     <td>
-       <img width="290" height="290" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
+       <img width="300" height="300" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
     </td>
   </tr>
 </table>
