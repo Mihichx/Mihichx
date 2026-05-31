@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-    <td width="1000px">
-      <table width="100%">
+    <td>
+      <table width="1000px">
         <thead>
           <tr>
             <th width="25%">День недели</th>
