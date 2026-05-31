@@ -4,7 +4,7 @@
 <table border="0" width="100%">
   <tr>
     <!-- Увеличили левую колонку до 75% для 4-х столбиков -->
-    <td valign="top" width="75%">
+    <td valign="top" width="1000px">
       <table width="100%">
         <thead>
           <tr>
