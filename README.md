@@ -53,7 +53,7 @@
       </table>
     </td>
     <td>
-       <img width="303" height="303" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
+       <img width="305" height="305" alt="" src="https://github.com/user-attachments/assets/7f872508-ed83-4026-b14e-9b6365d0057f" style="display: block; border-radius: 6px;" />
     </td>
   </tr>
 </table>
