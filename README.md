@@ -9,7 +9,7 @@
         <thead>
           <tr>
             <th width="25%">День недели</th>
-            <th width="25%">Часы работы (UTC+4)</th>
+            <th width="25%">Часы работы (UTC+4) +-</th>
             <th width="25%">Статус</th>
           </tr>
         </thead>
