@@ -3,13 +3,13 @@
 
 <table>
   <tr>
-    <td>
-      <table width="1000px">
+    <td width="1000px">
+      <table>
         <thead>
           <tr>
-            <th width="25%">День недели</th>
-            <th width="25%">Часы работы (UTC+4) +-</th>
-            <th width="25%">Статус</th>
+            <th>День недели</th>
+            <th>Часы работы (UTC+4) +-</th>
+            <th>Статус</th>
           </tr>
         </thead>
         <tbody>
