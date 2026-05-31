@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihichx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/Mihichx)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mihichx)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
