@@ -1,9 +1,9 @@
 ### Активность
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihichx&theme=react-dark)
 
-<table width="1000px">
+<table>
   <tr>
-    <td>
+    <td width="1000px">
       <table width="100%">
         <thead>
           <tr>
