@@ -59,6 +59,8 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-0-blue?style=flat)
 
 **🐱 Мои данные GitHub** 
@@ -138,5 +140,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mihichx/Mihichx/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 21:38:59 UTC
+ Last Updated on 03/07/2026 09:31:48 UTC
 <!--END_SECTION:waka-->
