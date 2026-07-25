@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: placeholder
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_URL: ${{ secrets.WAKATIME_API_URL }}
+          API_BASE_URL: ${{ secrets.WAKATIME_API_URL }}
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
