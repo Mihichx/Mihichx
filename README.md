@@ -59,6 +59,8 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2052%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-0-blue?style=flat)
 
 **🐱 Мои данные GitHub** 
@@ -100,22 +102,18 @@
 🕑︎ Часовой Пояс: Europe/Samara
 
 💬 Языки Программирования: 
-Other                    30 mins             ███████████░░░░░░░░░░░░░░   43.47 % 
-Markdown                 19 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-SQL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+PHP                      0 secs              ████████████████░░░░░░░░░   64.91 % 
+Apache Config            0 secs              ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Редакторы: 
-VS Code                  54 mins             ███████████████████░░░░░░   76.98 % 
-Visual                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Проекты: 
-ClearVC-test-site        1 hr 10 mins        █████████████████████████   99.56 % 
-ClearVC                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+ClearVC                  0 secs              █████████████████████████   100.00 % 
 
 💻 Операционная Система: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **В основном программирую на PHP** 
@@ -135,5 +133,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mihichx/Mihichx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 08:38:11 UTC
+ Last Updated on 25/07/2026 08:18:51 UTC
 <!--END_SECTION:waka-->
