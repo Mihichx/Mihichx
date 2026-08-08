@@ -59,6 +59,10 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-0-blue?style=flat)
 
 **🐱 Мои данные GitHub** 
@@ -73,6 +77,51 @@
  > 
 > 🔑 2 Приватных репозиториев 
  > 
+**Я ночная 🦉** 
+
+```text
+🌞 Утро                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌆 День                   106 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌃 Вечер                  234 commits         ███████████████░░░░░░░░░░   60.94 % 
+🌙 Ночь                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+```
+📅 **Мой самый продуктивный день Пятница** 
+
+```text
+Понедельник              44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Вторник                  57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Среда                    76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Четверг                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Пятница                  87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Суббота                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Воскресенье              62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+```
+
+
+📊 **На этой неделе мое время было потрачено на** 
+
+```text
+🕑︎ Часовой Пояс: Europe/Samara
+
+💬 Языки Программирования: 
+На этой неделе активность не отслеживалась
+
+🔥 Редакторы: 
+На этой неделе активность не отслеживалась
+
+🐱‍💻 Проекты: 
+На этой неделе активность не отслеживалась
+
+💻 Операционная Система: 
+На этой неделе активность не отслеживалась
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **В основном программирую на PHP** 
 
 ```text
@@ -90,5 +139,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mihichx/Mihichx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 07:27:06 UTC
+ Last Updated on 08/08/2026 07:04:01 UTC
 <!--END_SECTION:waka-->
