@@ -6,7 +6,7 @@ USERNAME = "Mihichx"
 TOKEN = os.environ.get("GH_TOKEN")
 
 HEADERS = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
-API = "https://github.com"
+API = "https://api.github.com"
 
 
 def get_user():
@@ -104,7 +104,7 @@ def make_svg(user, repos, langs, total_commits, starred_count):
 
     height = y + 20
 
-    svg = f'''<svg xmlns="http://w3.org" width="600" height="{height}" viewBox="0 0 600 {height}">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="600" height="{height}" viewBox="0 0 600 {height}">
     <rect width="600" height="{height}" fill="#0d1117" rx="12"/>
     <text x="30" y="50" fill="#58a6ff" font-size="22" font-weight="bold" font-family="Segoe UI, sans-serif">GitHub Stats — {USERNAME}</text>
     
