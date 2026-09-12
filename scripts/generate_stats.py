@@ -77,7 +77,7 @@ def get_languages(repos):
         if main_lang:
             langs[main_lang] = langs.get(main_lang, 0) + 1
 
-    return dict(sorted(langs.items(), key=lambda x: -x))
+    return dict(sorted(langs.items(), key=lambda x: -x[1]))
 
 
 def make_svg(user, repos, langs, total_commits, starred_count):
