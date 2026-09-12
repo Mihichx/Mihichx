@@ -37,20 +37,17 @@ def get_languages(repos):
     for repo in repos:
         if repo.get("fork"):
             continue
-        try:
-            r = requests.get(repo["languages_url"], headers=HEADERS, timeout=15)
-            if r.status_code != 200:
-                continue
-            for lang, size in r.json().items():
-                langs[lang] = langs.get(lang, 0) + size
-        except Exception:
-            continue
+
+        main_lang = repo.get("language")
+        if main_lang:
+            langs[main_lang] = langs.get(main_lang, 0) + 1
+
     return dict(sorted(langs.items(), key=lambda x: -x[1]))
 
 
 def make_svg(user, repos, langs):
-    stars = sum(r["stargazers_count"] for r in repos)
-    forks = sum(r["forks_count"] for r in repos)
+    stars = sum(r["stargazers_count"] for r in repos if not r.get("fork"))
+    forks = sum(r["forks_count"] for r in repos if not r.get("fork"))
     repos_count = user["public_repos"]
     followers = user["followers"]
 
