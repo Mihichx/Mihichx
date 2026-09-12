@@ -1,43 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="398" viewBox="0 0 600 398">
-    <rect width="600" height="398" fill="#0d1117" rx="12"/>
-    <text x="30" y="50" fill="#58a6ff" font-size="22" font-weight="bold" font-family="Segoe UI, sans-serif">GitHub Stats — Mihichx</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="258" viewBox="0 0 600 258">
+    <rect width="600" height="258" fill="#0d1117" rx="12"/>
+    <text x="30" y="35" fill="#58a6ff" font-size="18" font-weight="bold" font-family="Segoe UI, sans-serif">Топ языков профиля (по проектам)</text>
     
-    <text x="30" y="95" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">📦 Репозиториев: <tspan fill="#58a6ff">15</tspan></text>
-    <text x="240" y="95" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">👥 Подписчиков: <tspan fill="#58a6ff">2</tspan></text>
-    
-    <text x="30" y="125" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">🔥 Новые коммиты: <tspan fill="#58a6ff">Активен</tspan></text>
-    <text x="240" y="125" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">⭐ Вы лайкнули: <tspan fill="#58a6ff">0</tspan></text>
-    
-    <text x="30" y="175" fill="#58a6ff" font-size="17" font-weight="bold" font-family="Segoe UI, sans-serif">Топ языков (по проектам)</text>
-    
-        <text x="30" y="210" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">PHP</text>
-        <rect x="170" y="197" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="197" width="91" height="14" fill="#f1e05a" rx="7"/>
-        <text x="510" y="210" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">28.6%</text>
+        <text x="30" y="75" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">PHP</text>
+        <rect x="170" y="62" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="62" width="91" height="14" fill="#f1e05a" rx="7"/>
+        <text x="510" y="75" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">28.6%</text>
         
-        <text x="30" y="238" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
-        <rect x="170" y="225" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="225" width="68" height="14" fill="#3572A5" rx="7"/>
-        <text x="510" y="238" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
+        <text x="30" y="103" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
+        <rect x="170" y="90" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="90" width="68" height="14" fill="#3572A5" rx="7"/>
+        <text x="510" y="103" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
         
-        <text x="30" y="266" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
-        <rect x="170" y="253" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="253" width="68" height="14" fill="#e34c26" rx="7"/>
-        <text x="510" y="266" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
+        <text x="30" y="131" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
+        <rect x="170" y="118" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="118" width="68" height="14" fill="#e34c26" rx="7"/>
+        <text x="510" y="131" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
         
-        <text x="30" y="294" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
-        <rect x="170" y="281" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="281" width="45" height="14" fill="#563d7c" rx="7"/>
-        <text x="510" y="294" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">14.3%</text>
+        <text x="30" y="159" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
+        <rect x="170" y="146" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="146" width="45" height="14" fill="#563d7c" rx="7"/>
+        <text x="510" y="159" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">14.3%</text>
         
-        <text x="30" y="322" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Batchfile</text>
-        <rect x="170" y="309" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="309" width="22" height="14" fill="#2b7489" rx="7"/>
-        <text x="510" y="322" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
+        <text x="30" y="187" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Batchfile</text>
+        <rect x="170" y="174" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="174" width="22" height="14" fill="#2b7489" rx="7"/>
+        <text x="510" y="187" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
         
-        <text x="30" y="350" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">C</text>
-        <rect x="170" y="337" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="337" width="22" height="14" fill="#89e051" rx="7"/>
-        <text x="510" y="350" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
+        <text x="30" y="215" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">C</text>
+        <rect x="170" y="202" width="320" height="14" fill="#21262d" rx="7"/>
+        <rect x="170" y="202" width="22" height="14" fill="#89e051" rx="7"/>
+        <text x="510" y="215" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
         
     </svg>
