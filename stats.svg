@@ -7,34 +7,34 @@
     <text x="30" y="125" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">🍴 Форков: <tspan fill="#58a6ff">26</tspan></text>
     <text x="30" y="175" fill="#58a6ff" font-size="17" font-weight="bold" font-family="Segoe UI, sans-serif">Топ языков</text>
     
-        <text x="30" y="210" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
+        <text x="30" y="210" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">PHP</text>
         <rect x="170" y="197" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="197" width="311" height="14" fill="#f1e05a" rx="7"/>
-        <text x="510" y="210" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">97.4%</text>
+        <rect x="170" y="197" width="91" height="14" fill="#f1e05a" rx="7"/>
+        <text x="510" y="210" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">28.6%</text>
         
-        <text x="30" y="238" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">PHP</text>
+        <text x="30" y="238" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
         <rect x="170" y="225" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="225" width="2" height="14" fill="#3572A5" rx="7"/>
-        <text x="510" y="238" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">0.9%</text>
+        <rect x="170" y="225" width="68" height="14" fill="#3572A5" rx="7"/>
+        <text x="510" y="238" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
         
-        <text x="30" y="266" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Cython</text>
+        <text x="30" y="266" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
         <rect x="170" y="253" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="253" width="1" height="14" fill="#e34c26" rx="7"/>
-        <text x="510" y="266" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">0.5%</text>
+        <rect x="170" y="253" width="68" height="14" fill="#e34c26" rx="7"/>
+        <text x="510" y="266" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">21.4%</text>
         
-        <text x="30" y="294" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
+        <text x="30" y="294" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
         <rect x="170" y="281" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="281" width="1" height="14" fill="#563d7c" rx="7"/>
-        <text x="510" y="294" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">0.5%</text>
+        <rect x="170" y="281" width="45" height="14" fill="#563d7c" rx="7"/>
+        <text x="510" y="294" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">14.3%</text>
         
-        <text x="30" y="322" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
+        <text x="30" y="322" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Batchfile</text>
         <rect x="170" y="309" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="309" width="1" height="14" fill="#2b7489" rx="7"/>
-        <text x="510" y="322" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">0.4%</text>
+        <rect x="170" y="309" width="22" height="14" fill="#2b7489" rx="7"/>
+        <text x="510" y="322" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
         
-        <text x="30" y="350" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">HTML</text>
+        <text x="30" y="350" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">C</text>
         <rect x="170" y="337" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="337" width="0" height="14" fill="#89e051" rx="7"/>
-        <text x="510" y="350" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">0.2%</text>
+        <rect x="170" y="337" width="22" height="14" fill="#89e051" rx="7"/>
+        <text x="510" y="350" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">7.1%</text>
         
     </svg>
