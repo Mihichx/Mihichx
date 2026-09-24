@@ -10,7 +10,7 @@
 
 ### Мой стек технологий:
 * **Languages:** JavaScript (ES6+), PHP, Python, C
-* **Web & Backend:** HTML5, CSS3, микрофреймворки, интеграция API (Google Calendar и др.)
+* **Web & Backend:** HTML5, CSS3, фреймворки (ClearVC, Laravel), интеграция API (Google Calendar и др.)
 * **Инструменты:** Git, GitHub, Chrome DevTools
 * **В процессе изучения:** Современные Frontend-фреймворки и углубленная архитектура веб-приложений.
 
