@@ -4,20 +4,20 @@
     
         <text x="30" y="75" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">PHP</text>
         <rect x="170" y="62" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="62" width="94" height="14" fill="#f1e05a" rx="7"/>
-        <text x="510" y="75" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">29.4%</text>
+        <rect x="170" y="62" width="75" height="14" fill="#f1e05a" rx="7"/>
+        <text x="510" y="75" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">23.5%</text>
         
-        <text x="30" y="103" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
+        <text x="30" y="103" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
         <rect x="170" y="90" width="320" height="14" fill="#21262d" rx="7"/>
         <rect x="170" y="90" width="75" height="14" fill="#3572A5" rx="7"/>
         <text x="510" y="103" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">23.5%</text>
         
-        <text x="30" y="131" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
+        <text x="30" y="131" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">Python</text>
         <rect x="170" y="118" width="320" height="14" fill="#21262d" rx="7"/>
-        <rect x="170" y="118" width="56" height="14" fill="#e34c26" rx="7"/>
-        <text x="510" y="131" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">17.6%</text>
+        <rect x="170" y="118" width="75" height="14" fill="#e34c26" rx="7"/>
+        <text x="510" y="131" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">23.5%</text>
         
-        <text x="30" y="159" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">CSS</text>
+        <text x="30" y="159" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">JavaScript</text>
         <rect x="170" y="146" width="320" height="14" fill="#21262d" rx="7"/>
         <rect x="170" y="146" width="56" height="14" fill="#563d7c" rx="7"/>
         <text x="510" y="159" fill="#8b949e" font-size="13" font-family="Segoe UI, sans-serif">17.6%</text>
