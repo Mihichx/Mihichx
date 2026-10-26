@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="70" viewBox="0 0 620 70">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .txt {
+        font-family: 'Fira Code','JetBrains Mono','Consolas',monospace;
+        font-size: 26px; font-weight: 600; fill: #E45649;
+        white-space: pre;
+        text-anchor: middle;
+      }
+      .line {
+        opacity: 0;
+        animation-duration: 9s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+      }
+      .l1 { animation-name: fade1; }
+      .l2 { animation-name: fade2; }
+      .l3 { animation-name: fade3; }
+
+      @keyframes fade1 {
+        0%, 2%    { opacity: 0; transform: translateY(12px); }
+        8%, 28%   { opacity: 1; transform: translateY(0); }
+        33%, 100% { opacity: 0; transform: translateY(-12px); }
+      }
+      @keyframes fade2 {
+        0%, 35%   { opacity: 0; transform: translateY(12px); }
+        41%, 61%  { opacity: 1; transform: translateY(0); }
+        66%, 100% { opacity: 0; transform: translateY(-12px); }
+      }
+      @keyframes fade3 {
+        0%, 68%   { opacity: 0; transform: translateY(12px); }
+        74%, 94%  { opacity: 1; transform: translateY(0); }
+        99%, 100% { opacity: 0; transform: translateY(-12px); }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="620" height="70" rx="8"/>
+  <g class="line l1"><text class="txt" x="50%" y="44">Веб-разработчик</text></g>
+  <g class="line l2"><text class="txt" x="50%" y="44">Frontend + Backend</text></g>
+  <g class="line l3"><text class="txt" x="50%" y="44">Практика &gt; теория</text></g>
+</svg>
