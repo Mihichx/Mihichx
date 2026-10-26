@@ -3,97 +3,40 @@
     <style>
       .bg { fill: #0d1117; }
       .txt {
-        font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
-        font-size: 26px;
-        font-weight: 600;
-        fill: #E45649;
-        letter-spacing: 0.5px;
+        font-family: 'Fira Code','JetBrains Mono','Consolas',monospace;
+        font-size: 26px; font-weight: 600; fill: #E45649;
+        white-space: pre;
+        text-anchor: middle;
       }
-      .cursor {
-        fill: #E45649;
-        animation: blink 0.6s step-end infinite;
-      }
-      @keyframes blink {
-        0%, 49%   { opacity: 1; }
-        50%, 100% { opacity: 0; }
-      }
-
-      /* Общий цикл — 9 секунд, по 3 секунды на строку */
       .line {
         opacity: 0;
         animation-duration: 9s;
         animation-iteration-count: infinite;
-        animation-timing-function: linear;
+        animation-timing-function: ease-in-out;
       }
-      .l1 { animation-name: show1; }
-      .l2 { animation-name: show2; }
-      .l3 { animation-name: show3; }
+      .l1 { animation-name: fade1; }
+      .l2 { animation-name: fade2; }
+      .l3 { animation-name: fade3; }
 
-      @keyframes show1 {
-        0%, 1%     { opacity: 0; }
-        2%, 30%    { opacity: 1; }
-        33%, 100%  { opacity: 0; }
+      @keyframes fade1 {
+        0%, 2%    { opacity: 0; transform: translateY(12px); }
+        8%, 28%   { opacity: 1; transform: translateY(0); }
+        33%, 100% { opacity: 0; transform: translateY(-12px); }
       }
-      @keyframes show2 {
-        0%, 33%    { opacity: 0; }
-        35%, 63%   { opacity: 1; }
-        66%, 100%  { opacity: 0; }
+      @keyframes fade2 {
+        0%, 35%   { opacity: 0; transform: translateY(12px); }
+        41%, 61%  { opacity: 1; transform: translateY(0); }
+        66%, 100% { opacity: 0; transform: translateY(-12px); }
       }
-      @keyframes show3 {
-        0%, 66%    { opacity: 0; }
-        68%, 96%   { opacity: 1; }
-        99%, 100%  { opacity: 0; }
-      }
-
-      /* Печать: быстрее — steps(18) вместо steps(22) */
-      .type {
-        animation-duration: 9s;
-        animation-iteration-count: infinite;
-        animation-timing-function: steps(18, end);
-      }
-      .t1 { animation-name: type1; }
-      .t2 { animation-name: type2; }
-      .t3 { animation-name: type3; }
-
-      @keyframes type1 {
-        0%, 1%    { clip-path: inset(0 100% 0 0); }
-        2%        { clip-path: inset(0 100% 0 0); }
-        22%       { clip-path: inset(0 0 0 0); }
-        100%      { clip-path: inset(0 0 0 0); }
-      }
-      @keyframes type2 {
-        0%, 34%   { clip-path: inset(0 100% 0 0); }
-        35%       { clip-path: inset(0 100% 0 0); }
-        55%       { clip-path: inset(0 0 0 0); }
-        100%      { clip-path: inset(0 0 0 0); }
-      }
-      @keyframes type3 {
-        0%, 67%   { clip-path: inset(0 100% 0 0); }
-        68%       { clip-path: inset(0 100% 0 0); }
-        88%       { clip-path: inset(0 0 0 0); }
-        100%      { clip-path: inset(0 0 0 0); }
+      @keyframes fade3 {
+        0%, 68%   { opacity: 0; transform: translateY(12px); }
+        74%, 94%  { opacity: 1; transform: translateY(0); }
+        99%, 100% { opacity: 0; transform: translateY(-12px); }
       }
     </style>
   </defs>
-
-  <!-- Фон -->
   <rect class="bg" width="620" height="70" rx="8"/>
-
-  <!-- Строка 1 -->
-  <g class="line l1">
-    <text class="txt type t1" x="20" y="44">Веб-разработчик</text>
-    <rect class="cursor" x="20" y="22" width="3" height="26"/>
-  </g>
-
-  <!-- Строка 2 -->
-  <g class="line l2">
-    <text class="txt type t2" x="20" y="44">Frontend + Backend</text>
-    <rect class="cursor" x="20" y="22" width="3" height="26"/>
-  </g>
-
-  <!-- Строка 3 -->
-  <g class="line l3">
-    <text class="txt type t3" x="20" y="44">Практика &gt; теория</text>
-    <rect class="cursor" x="20" y="22" width="3" height="26"/>
-  </g>
+  <g class="line l1"><text class="txt" x="50%" y="44">Веб-разработчик</text></g>
+  <g class="line l2"><text class="txt" x="50%" y="44">Frontend + Backend</text></g>
+  <g class="line l3"><text class="txt" x="50%" y="44">Практика &gt; теория</text></g>
 </svg>
